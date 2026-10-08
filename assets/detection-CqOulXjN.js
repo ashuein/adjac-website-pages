@@ -1,0 +1,1 @@
+var e=`/assets/detection-Dahs5gcL.jpg`;export{e as t};
